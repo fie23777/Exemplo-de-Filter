@@ -1,0 +1,11 @@
+2016-11-21 19:06:17,325 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.fieweb:fieweb:0.0.1-SNAPSHOT @ C:\projetos\filter\fieweb\pom.xml.
+2016-11-21 19:06:17,325 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.fieweb:fieweb:0.0.1-SNAPSHOT @ C:\projetos\filter\fieweb\pom.xml.
+2016-11-21 19:06:20,334 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-21 19:06:20,345 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-11-21 19:06:20,351 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-21 19:06:20,352 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-11-21 19:06:24,311 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.fieweb:fieweb:0.0.1-SNAPSHOT @ C:\projetos\filter\fieweb\pom.xml.
+2016-11-21 19:06:37,958 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-21 19:06:37,963 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-11-21 19:06:37,966 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-21 19:06:37,967 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
